@@ -40,25 +40,17 @@
 
 <p align="center">
   <a href="https://facebook.com/your_facebook" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg"
-         width="30"
-         style="filter: invert(32%) sepia(98%) saturate(749%) hue-rotate(201deg);" 
-         alt="Facebook"/>
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="32" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/your_instagram" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg"
-         width="30"
-         style="filter: invert(41%) sepia(86%) saturate(748%) hue-rotate(313deg);" 
-         alt="Instagram"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="32" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ChiHao2108" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"
-         width="30"
-         style="filter: invert(100%);" 
-         alt="GitHub"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="32" alt="GitHub"/>
   </a>
 </p>
+
 
 
