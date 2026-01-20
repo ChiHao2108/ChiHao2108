@@ -38,6 +38,17 @@
 
 ## 📫 Contact
 
-| Facebook                                                                 | Instagram                                                                    | GitHub                                                         |
-| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [https://facebook.com/your_facebook](https://facebook.com/your_facebook) | [https://instagram.com/your_instagram](https://instagram.com/your_instagram) | [https://github.com/ChiHao2108](https://github.com/ChiHao2108) |
+<p align="center">
+  <a href="https://facebook.com/your_facebook" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="28" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/your_instagram" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ChiHao2108" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="28" alt="GitHub"/>
+  </a>
+</p>
+
